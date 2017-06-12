@@ -1,24 +1,24 @@
 {
-  "name": "passport-cas",
-  "version": "0.1.1",
-  "description": "Cas authentication strategies for Passport.",
+  "name": "@nis/passport-cas",
+  "version": "0.1.2",
+  "description": "Fork of passport-cas for NIS projects.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:sadne/passport-cas.git"
+    "url": "git@github.com:hedgeninja/passport-cas.git"
   },
   "keywords": [
     "passport",
     "auth",
     "cas"
   ],
-  "author": "不会飞的羊",
+  "author": "Brian Early",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sadne/passport-cas/issues"
+    "url": "https://github.com/hedgeninja/passport-cas/issues"
   },
-  "homepage": "https://github.com/sadne/passport-cas",
+  "homepage": "https://github.com/hedgeninja/passport-cas",
   "dependencies": {
     "node-uuid": "1.4.1",
     "underscore": "1.6.0",
